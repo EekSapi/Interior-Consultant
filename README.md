@@ -52,4 +52,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@EekSapi](https://{https://github.com/EekSapi})
+- GitHub [@EekSapi](https://github.com/EekSapi)
