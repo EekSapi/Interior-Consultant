@@ -1,0 +1,143 @@
+.mobile{
+    display: none;
+}
+
+h1{
+    position: absolute;
+    width: 370px;
+    height: 61px;
+    left: 77px;
+    top: 381px;
+    
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 61px;
+}
+
+.para{
+    position: absolute;
+    width: 410px;
+    height: 145px;
+    left: 77px;
+    top: 482px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.read{
+    position: absolute;
+    width: 103px;
+    height: 22px;
+    left: 77px;
+    top: 675px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.arrow{
+    height: 6.583069324493408px;
+    width: 18.79127311706543px;
+    left: 194px;
+    top: 677px;
+
+    position: absolute;
+}
+
+.design{
+    position: absolute;
+    width: 821.11px;
+    height: 586.53px;
+    left: 574px;
+    top: 221px;
+}
+
+.made-box{
+    position: absolute;
+    width: 410px;
+    height: 189px;
+    left: 921px;
+    top: 722px;
+
+    background: #181719;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.profile-picture{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 20px;
+    top: 15px;
+
+    border-radius: 50% ;
+}
+
+.name{
+    position: absolute;
+    width: 95px;
+    height: 17px;
+    left: 100px;
+    top: 23px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;  
+}
+
+.job{
+    position: absolute;
+    width: 102px;
+    height: 15px;
+    left: 100px;
+    top: 48px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #828282;
+}
+
+.mark{
+    position: absolute;
+    width: 287px;
+    height: 62px;
+    left: 26px;
+    top: 93px;
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.watermark{
+    position: relative;
+    height: 17px;
+    top: 1039px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+
+    color: #A9A9A9;
+}
+

@@ -1,0 +1,187 @@
+@media screen and (max-width:900px) {
+    body{
+        background-color: #181719;
+        color: #FFFFFF;
+    }
+
+    .mobile{
+        display: inline;
+    }
+
+    .desktop{
+        display: none;
+    }
+
+    .logo-m{
+        position: absolute;
+        width: 86px;
+        height: 16px;
+        left: 20px;
+        top: 27px;
+    
+        font-family: 'Crimson Pro';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #FFFFFF;
+        padding: 8px;
+    
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 105px;
+        height: 34px;
+        left: 12px;
+        top: 19px;
+    
+        border: 1px solid #FFFFFF;
+    }
+    
+    .menu-page-m{
+        position: relative;
+        text-align: right;
+        right:20px;
+        top: 20px;
+    }
+
+    h1{
+        position: absolute;
+        width: 280px;
+        height: 46px;
+        left: 12px;
+        top: 88px;
+        
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    
+    .para-m{
+        position: absolute;
+        width: 250px;
+        height: 85px;
+        left: 12px;
+        top: 169px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    
+    .read-m{
+        position: absolute;
+        width: 80px;
+        height: 17px;
+        left: 12px;
+        top: 289px;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    
+    .arrow-m{
+        height: 6.583069324493408px;
+        width: 18.79127311706543px;
+        left: 105px;
+        top: 289px;
+    
+        position: absolute;
+    }
+    
+    .design-m{
+        position: relative;
+        left: 13px;
+        height: 279.34px;
+        top: 311.57px;
+    }
+    
+    .made-box-m{
+        position: absolute;
+        width: 300px;
+        height: 138px;
+        left: 70px;
+        top: 536px;
+        
+        background: #181719;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    .profile-picture-m{
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        left: 20px;
+        top: 15px;
+    
+        border-radius: 50% ;
+    }
+    
+    .name-m{
+        position: absolute;
+        width: 95px;
+        height: 17px;
+        left: 100px;
+        top: 23px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;  
+    }
+    
+    .job-m{
+        position: absolute;
+        width: 102px;
+        height: 15px;
+        left: 100px;
+        top: 48px;
+    
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 15px;
+    
+        color: #828282;
+    }
+    
+    .mark-m{
+        position: absolute;
+        width: 287px;
+        height: 62px;
+        left: 26px;
+        top: 93px;
+    
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 31px;
+    }
+    
+    .watermark-m{
+        position: relative;
+        height: 17px;
+        top: 735px;
+    
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+    
+        color: #A9A9A9;
+    }
+    
+}
